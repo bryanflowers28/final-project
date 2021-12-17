@@ -27,5 +27,6 @@ Data Structures
 My program utilizes a graph structure to organize the players chemistry between one another.
 Each players connection (weight) is determined by their position and if they have played for the same franchise.
 Once their chemistry is determined, they are placed into the graph as 2 vertices with their weight being the chemistry score.
+This chemistry score is then used to determine the teams estimated wins, and overall grade.
 All other additional data is stored in 1D or 2D dictionary structures.
 
